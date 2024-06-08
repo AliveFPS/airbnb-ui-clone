@@ -44,3 +44,12 @@ section {
 .hero--text {
     margin-top: 0;
 }
+
+.Rating {
+    display: flex;
+}
+
+.Star {
+    align-self: flex-start;
+}
+
